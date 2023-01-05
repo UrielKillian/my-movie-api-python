@@ -15,12 +15,6 @@ venv/Scripts/activate
 Install those dependencies
 
 ``
-pip install fastapi uvicorn
-``
-
-or use this 
-
-``
 pip install -r requirements.txt``
 
 If the file don't exist. You can create this file automatically using this command.
